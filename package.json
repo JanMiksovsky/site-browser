@@ -3,5 +3,8 @@
   "type": "module",
   "dependencies": {
     "@weborigami/async-tree": "0.0.65"
+  },
+  "scripts": {
+    "build": "mkdir build; cp -r src/* node_modules build/"
   }
 }
