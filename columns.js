@@ -1,7 +1,7 @@
 import {
   SiteTree,
   Tree,
-} from "../../node_modules/@weborigami/async-tree/browser.js";
+} from "./node_modules/@weborigami/async-tree/browser.js";
 
 const location = document.location;
 const url = location.search?.slice(1);
