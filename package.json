@@ -1,0 +1,7 @@
+{
+  "name": "site-browser",
+  "type": "module",
+  "dependencies": {
+    "@weborigami/async-tree": "0.0.65"
+  }
+}
